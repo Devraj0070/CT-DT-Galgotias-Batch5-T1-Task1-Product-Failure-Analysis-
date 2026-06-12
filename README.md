@@ -1,2 +1,1 @@
-# L-T-Assignment
-Here I have written all my L&amp;T aasignment 
+# L-T-AssignmentThis is task 1 of the assignment
